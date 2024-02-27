@@ -77,6 +77,7 @@ function MakeImgShow(Text) {
   })
     .then((response) => response.json())
     .then((data) => {
+      data = data.assets;
       let j = 0;
       let ControlNum = data.length - 13;
       let Random = Math.floor(Math.random() * ControlNum) + 1;
