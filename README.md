@@ -1,10 +1,7 @@
 # CambrigeImgAjax
-
-## 介紹:
-![](https://i.imgur.com/Nbf9zG6.jpg)
-
 這是一個查單字的網頁，透過 nodeJS 的 express 架起來的。
-
+## 效果:
+![](https://i.imgur.com/Nbf9zG6.jpg)
 ## 功能介紹:
 
 輸入英文單字後，會幫你丟到劍橋線上字典查詢，並且使用免費圖庫的 API 叫出六張以上的圖片。<br>
