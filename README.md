@@ -1,5 +1,8 @@
 # CambrigeImgAjax
 這是一個查單字的網頁，透過 nodeJS 的 express 架起來的。
+
+[用render部署](https://cambrigeimgajax.onrender.com/search/dog)
+
 ## 效果:
 ![](https://i.imgur.com/Nbf9zG6.jpg)
 ## 功能介紹:
